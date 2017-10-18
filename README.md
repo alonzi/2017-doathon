@@ -1,6 +1,6 @@
 # What is a doathon?
 
-Doathons bring together diverse participants to advance open &mdash; openly and quickly. The event centers around participants (no speakers needed!), and projects (e.g. on Github) where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters &mdash; attracting awesome participants and helping them work together.
+Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no speakers needed!), and projects (e.g. on Github) where collaboration, discovery and preservation are made easy. 
 
 | Easy & Fast | Impactful | Inclusive & Participatory |
 | --- | --- | --- |
