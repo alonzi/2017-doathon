@@ -1,4 +1,4 @@
-<!-- Note: This page is intended to describe doathons & sell the idea. Selling to potential hosts here, rather than to attendees. Call to action is to get people to look at the guide & host. -->
+# What is a doathon?
 
 Doathons bring together diverse participants to advance open &mdash; openly and quickly. The event centers around participants (no speakers needed!), and projects (e.g. on Github) where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters &mdash; attracting awesome participants and helping them work together.
 
@@ -12,6 +12,10 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 
 [See what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
+# When and where is the next one?
+
+18-19 November 2017, somewhere in Charlottesville, Virginia. Details to follow.
+
 ## Our program
 
 | Day 1                                          | Day 2                                            |
@@ -22,23 +26,3 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 | 12-1pm: Lunch                                  | 1-5pm: Working with occasional lightning talks   |
 | 1-6pm: Working with occasional lightning talks | 5-6pm: Wrap up!                                  |
 
-# You're not alone
-
-* [Open Data Day](https://github.com/sparcopen/Open-Research-doathon)
-* International Open Access Week (maybe)
-<!-- * Ones Daniel knows -->
-* [OpenCon Cambridge](https://github.com/OpenConCam/OpenConCam/issues/15)
-* [OpenCon Berlin](http://www.opencon2017.org/opencon_2017_to_be_held_in_berlin_germany_on_november_11_13)
-<!-- * [Add your event](link to a guide explaining how) -->
-
-# Like what you see?
-
-We're gathering resources to help you host a doathon, but we're not done yet! The idea is inspired by many existing initiatives - where you can get a lot of the information you need!
-
-Check them out:
-* Mozilla Working Open Workshops: learn to work openly on your project
-* Mozilla Global sprint: come together globally to work on projects
-* These excellent hackathon guides:
- * https://hackathon.guide/
- * https://guide.mlh.io/
-* [Unconferences](https://en.wikipedia.org/wiki/Unconference)
