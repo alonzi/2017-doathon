@@ -35,7 +35,7 @@ behaviour is not welcome.
 
 # Communication
 
-[GitHub issues](https://github.com/sparcopen/do-a-thon/issues) are the primary way for communicating about specific aspects of this project.
+[GitHub issues](https://github.com/UVA-DSI/2017-doathon/issues) are the primary way for communicating about specific aspects of this project.
 
 You're welcome to drop in and ask questions, discuss bugs and such.
 We expect you to follow the conduct guidelines above. Language issues
