@@ -2,9 +2,7 @@
 
 Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome participants and helping them work together.
 
-![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
-
-![Logo](https://github.com/sparcopen/do-a-doathon/blob/master/favicon.ico?raw=true)
+![London Doathon](assets/doathon_london.jpg?raw=true)
 
 ## simple icons
 
