@@ -16,7 +16,7 @@ Consider things like number, size and proximity of rooms, and whether you could 
 
 # Accessibility
 
-The event should be conveniently accessible by the target audience. You know best who this might be, but in general, it is a good idea to have it close to public transport and accessible by wheelchairs. Take weather information into account.
+The event should be conveniently accessible by the target audience. You know best who this might be, but in general, it is a good idea to have it close to public transport and accessible by wheelchairs. Take weather information into account. Think about accessiblity for remote attendees as well.
 
 # Facilities
 
