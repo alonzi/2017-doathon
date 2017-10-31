@@ -22,7 +22,8 @@ Doathons bring together diverse participants to get things done &mdash; openly, 
 |------------------------------------------------|--------------------------------------------------|
 | 9-10am: Breakfast                              | 9-10am: Breakfast                                |
 | 10-11am: Introductions & opening               | 10-12am: Working with occasional lightning talks |
-| 11-noon: idea pitches                          | 12-1pm: Lunch                                    |
-| 12-1pm: Lunch                                  | 1-5pm: Working with occasional lightning talks   |
-| 1-6pm: Working with occasional lightning talks | 5-6pm: Wrap up!                                  |
+| 11-noon: idea pitches                          | 
+| 12-1pm: Lunch                                  | 12-1pm: Lunch                                    |
+| 1-4pm: Working with occasional lightning talks | 1-4pm: Working with occasional lightning talks   |
+| 4-4:30pm: Wrap up for day 1                    | 4-4:30pm: Wrap up                                |
 
