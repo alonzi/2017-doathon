@@ -14,7 +14,7 @@ Doathons bring together diverse participants to get things done &mdash; openly, 
 
 # When and where is the next one?
 
-18-19 November 2017, somewhere in Charlottesville, Virginia. Details to follow.
+18-19 November 2017, at [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia. Details to follow.
 
 ## Our program
 
