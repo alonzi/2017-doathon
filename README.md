@@ -47,6 +47,10 @@ The slots labeled "Working" will have occasional lightning talks and documentati
   - if you have data but it's not open yet, consider making (some of) it open, or learning what this would entail
   - if you are looking for open data on a specific matter, let us know, and we can explore together where such data might be available and whether and how it could be made open in a way that suits your use case
 
+# What's next?
+
+We are seeing this doathon as a prototype for a series of similar events to be held in or around Charlottesville on a variety of topics, and to follow up on projects from previous ones. If you are interested in helping organize a future one, please get in touch.
+
 # Contact
 
 Daniel Mietchen, daniel[dot]mietchen[at]virginia[dot]edu or [@EvoMRI](https://twitter.com/EvoMR) on Twitter or [Daniel-Mietchen](https://github.com/Daniel-Mietchen) on GitHub.
