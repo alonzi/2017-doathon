@@ -36,7 +36,10 @@ The slots labeled "Working" will have occasional lightning talks and documentati
 # How to prepare
 
 * Let us know you're coming (we'll post instructions soon).
-* Think about what you can contribute to or what you would like to learn at the event.
+* Think about what you can contribute to or what you would like to learn at the event. For instance, 
+  - if you are providers of open data, let us know about what people are doing with the data or what ideas you have on what could be done with the data
+  - if you have data but it's not open yet, consider making (some of) it open
+  - if you are looking for open data on a specific matter, let us know, and we can explore together where such data might be available and whether and how it could be made open in a way that suits your use case
 
 # Image credits
 
