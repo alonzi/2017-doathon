@@ -1,10 +1,10 @@
-# Welcome to the DSI Do-a-thon
+# Welcome to the first DSI Do-a-thon
 
 Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
 # When?
 
-18-19 November 2017, 9am-4:30pm
+18-19 November 2017 (Saturday & Sunday; 9am-4:30pm on both days)
 
 # Where?
 
@@ -40,7 +40,3 @@ The slots labeled "Working" will have occasional lightning talks and documentati
   - if you are providers of open data, let us know about what people are doing with the data or what ideas you have on what could be done with the data
   - if you have data but it's not open yet, consider making (some of) it open
   - if you are looking for open data on a specific matter, let us know, and we can explore together where such data might be available and whether and how it could be made open in a way that suits your use case
-
-# Image credits
-
-* Sonar: [National Oceanic and Atmospheric Administration (NOAA)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg) (Public Domain)
