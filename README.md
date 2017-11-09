@@ -1,3 +1,5 @@
+[![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg)
+
 # When and where is it?
 
 18-19 November 2017, at [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia. 
@@ -29,3 +31,7 @@ The slots labeled "Working" will have occasional lightning talks and documentati
 
 * Let us know you're coming (we'll post instructions soon).
 * Think about what you can contribute to or what you would like to learn at the event.
+
+# Image credits
+
+* Sonar: [National Oceanic and Atmospheric Administration (NOAA)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg) (Public Domain)
