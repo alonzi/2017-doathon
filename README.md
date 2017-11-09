@@ -1,20 +1,26 @@
-[![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg)
+# Welcome to the DSI Do-a-thon
 
-# When and where is it?
+Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
-18-19 November 2017, at [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia. 
+# When?
 
-# What is a doathon?
+18-19 November 2017, 9am-4:30pm
 
-Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and projects (e.g. on Github) where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
+# Where?
+
+At [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia. 
 
 # What's the theme?
 
 The theme of this event will be open data, i.e. data that have been shared with no or minimal restrictions on reuse. On day 1, the focus will be more on open research data, on day 2 on open data from the city of Charlottesville, Albemarle county and the state of Virginia.
 
+# Who is invited?
+
+People interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards data open.
+
 # Our program
 
-The details are still pretty much in flux, but the general structure can be summarized in the following table.
+The details are still pretty much in flux, since they depend on you, but the general structure can be summarized in the following table.
 
 | Day 1                                          | Day 2                                            |
 |------------------------------------------------|--------------------------------------------------|
