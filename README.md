@@ -1,6 +1,6 @@
 # Welcome to the first DSI Do-a-thon
 
-Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
+Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what was done there](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
 # When?
 
@@ -14,9 +14,15 @@ At [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia
 
 The theme of this event will be open data, i.e. data that have been shared with no or minimal restrictions on reuse. On day 1, the focus will be more on open research data, on day 2 on open data from the city of Charlottesville, Albemarle county and the state of Virginia.
 
-# Who is invited?
+# Who?
 
-People interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards data open.
+The event is for people interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards data open.
+
+It is organized by the [Data Science Institute](http://dsi.virginia.edu/) at the University of Virginia.
+
+# Hashtag
+
+[#DSIDo](https://twitter.com/hashtag/DSIDo)
 
 # Our program
 
@@ -40,3 +46,7 @@ The slots labeled "Working" will have occasional lightning talks and documentati
   - if you are providers of open data, let us know about what people are doing with the data or what ideas you have on what could be done with the data
   - if you have data but it's not open yet, consider making (some of) it open
   - if you are looking for open data on a specific matter, let us know, and we can explore together where such data might be available and whether and how it could be made open in a way that suits your use case
+
+# Contact
+
+Daniel Mietchen, daniel[dot]mietchen[at]virginia[dot]edu or [@EvoMRI](https://twitter.com/EvoMR) on Twitter or [Daniel-Mietchen](https://github.com/Daniel-Mietchen) on GitHub.
