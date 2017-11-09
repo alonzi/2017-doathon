@@ -12,7 +12,7 @@ At [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia
 
 # What's the theme?
 
-The theme of this event will be open data, i.e. data that have been shared with no or minimal restrictions on reuse. On day 1, the focus will be more on open research data, on day 2 on open data from the city of Charlottesville, Albemarle county and the state of Virginia.
+The theme of this event will be [open data](https://en.wikipedia.org/wiki/Open_data), i.e. data that have been shared with no or minimal restrictions on reuse. On day 1, the focus will be more on open research data, on day 2 on open data from the city of Charlottesville, Albemarle county and the state of Virginia.
 
 # Who?
 
