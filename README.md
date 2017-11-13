@@ -1,6 +1,6 @@
 # Welcome to the first DSI Do-a-thon
 
-Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!), and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what was done there](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
+Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!) and focused attention to doable projects, where collaboration, discovery and preservation are made easy. To get an idea, take a look at a [previous doathon](https://github.com/sparcopen/open-research-doathon) and [see what was done there](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
 # When?
 
