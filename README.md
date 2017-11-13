@@ -8,7 +8,7 @@ Doathons bring together diverse participants to get things done &mdash; openly, 
 
 # Where?
 
-At [OpenGrounds](https://opengrounds.virginia.edu/) in Charlottesville, Virginia. 
+At [OpenGrounds](https://opengrounds.virginia.edu/) (in the [Barringer Wing](https://www.openstreetmap.org/#map=20/38.03405/-78.49981)), 1400 University Ave, Charlottesville, VA 22903.
 
 # What?
 
