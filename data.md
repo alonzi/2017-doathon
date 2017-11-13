@@ -27,6 +27,8 @@ Some starting points for finding/ exploring data:
  - Virginia
     - [Open Data Portal](http://data.virginia.gov)
       - [The Governor’s Opioid Addiction Crisis Datathon](http://data.virginia.gov/datathon-2017)
+    - [Virginia Department of Health Data portal](http://www.vdh.virginia.gov/data/)
+      - [Virginia Opioid Addiction Indicators](http://www.vdh.virginia.gov/data/opioid-overdose/)
     - [Annual Statistical Report from the Virginia Department of Social Service (VDSS)](http://dss.virginia.gov/geninfo/annual_report/index.html)
      - [Lynchburg Open Data portal](http://data-cityoflynchburg.opendata.arcgis.com/)
   - Albemarle county
