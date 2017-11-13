@@ -22,7 +22,7 @@ We are collecting ideas in this repository's [issue tracker](https://github.com/
 
 The ideas listed there will form the basis of the idea pitches, by which we try to match people with ideas. [Here](https://twitter.com/OKFN/status/838011416598700033) is an example of a pitch that was made at an earlier doathon, and [here](https://www.youtube.com/watch?v=UMR7N193uM8) is an example of a remote pitch for the same event. Once the groups are formed, they start working on the ideas they chose, at their own pace but with the option to ask around the room (or the Web) for help if they get stuck, and to have lunch on site.
 
-About 2-3 times during the day, work will be briefly interrupted to document what has been done. See how this looked at [prior](https://github.com/sparcopen/doathon/issues) [events](https://github.com/sparcopen/open-research-doathon/issues).
+About 2-3 times during the day, work will be briefly interrupted to document what has been done. See how this looked at [prior](https://github.com/sparcopen/doathon/issues) [events](https://github.com/sparcopen/open-research-doathon/issues). The goal here is to make visible progress, not necessarily to deliver a polished final product. We plan to organize more of those doathons in Charlottesville in the future, and since we are working in the open, we can continue work others have started, or vice versa.
 
 # Who?
 
