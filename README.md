@@ -32,11 +32,11 @@ The details are still pretty much in flux, since they depend on you, but the gen
 
 | Day 1                                          | Day 2                                            |
 |------------------------------------------------|--------------------------------------------------|
-| 9-10am: Arrival, breakfast & introductions     | 9-10am: Arrival & breakfast                      |
-| 10-10:15am: Opening                            | 10-11am: Working                                 |
-| 10:15-noon: idea pitches                       | 11-noon: Working                                 | 
-| 12-1pm: Working/ Lunch                         | 12-1pm: Working/ Lunch                           |
-| 1-4pm: Working                                 | 1-4pm: Working                                   |
+| 9-10am: Arrival, breakfast & introductions     | 9-10am: Arrival & breakfast & introductions      |
+| 10-10:15am: Opening                            | 10-10:05am: Opening                              |
+| 10:15-11am: idea pitches                       | 10:05-10:30am: idea pitches                      | 
+| 11am-4pm: Working                              | 11am-4pm: Working                                |
+| 12-1pm: Lunch provided                         | 12-1pm: Lunch provided                           |
 | 4-4:30pm: Wrap up for day 1                    | 4-4:30pm: Wrap up                                |
 
 The slots labeled "Working" will have occasional lightning talks and documentation sprints.
