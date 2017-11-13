@@ -17,7 +17,10 @@ We are interested in
   
 Some starting points for finding/ exploring data:
 - research data
-  - [re3data](https://www.re3data.org/)
+  - University of Virginia
+    - [LibraData](https://www.library.virginia.edu/libra/datasets/)
+  - international
+    - [re3data](https://www.re3data.org/)
 - government data
   - federal
     - [Open Data Portal](http://data.gov)
@@ -28,9 +31,8 @@ Some starting points for finding/ exploring data:
     - [Visual Budget](http://albemarle.smartcville.com/)
     - [Demographics](https://www.opendatanetwork.com/entity/0500000US51003/Albemarle_County_VA/demographics.population.count?year=2014)
   - Charlottesville
-    - [Open Data Portal](http://opendata.charlottesville.org/)
-    
-- international
+    - [Open Data Portal](http://opendata.charlottesville.org/)    
+- other data resources
   - [Open Data Inception](https://opendatainception.io/)
   - [OpenStreetMap](https://www.openstreetmap.org/)
   - [Wikidata](https://wikidata.org)
