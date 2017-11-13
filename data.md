@@ -51,4 +51,5 @@ Some starting points for finding/ exploring data:
   - [OpenStreetMap](https://www.openstreetmap.org/)
   - [Wikidata](https://wikidata.org)
   - [Data Hub](http://datahub.io/)
+  - a [list](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/big-data-50-fascinating-and-free-data-sources-for-data) with many further pointers &mdash; all free but possibly not open
   
