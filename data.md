@@ -1,5 +1,13 @@
+# About
+
+This page provides some basic information around the data and resources that could be useful for doathon projects. 
+
+# Definition
+
 The focus of this event is on open data as defined by the [Open Definition](http://opendefinition.org/), which can be summarized as 
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
+
+# Scope
 
 We are interested in 
 - data along its entire life cycle ([overview](http://data.library.virginia.edu/data-management/lifecycle/))
@@ -14,7 +22,9 @@ We are interested in
   - ethics
   - visualizations
   - discoverability
-  
+
+# Getting started
+
 Some starting points for finding/ exploring data:
 - research data
   - University of Virginia
