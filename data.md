@@ -2,7 +2,7 @@ The focus of this event is on open data as defined by the [Open Definition](http
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
 We are interested in 
-- data along its entire life cycle
+- data along its entire life cycle ([overview](http://data.library.virginia.edu/data-management/lifecycle/))
   - from making plans to capture data to the actual data capture, processing and sharing of data, integration across different sources, updates, citations and other forms of reuse.
 - metadata
   - again all along the cycle, including ontologies and cases when original data may not be available any more
