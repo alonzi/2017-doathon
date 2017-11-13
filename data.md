@@ -16,18 +16,22 @@ We are interested in
   - discoverability
   
 Some starting points for finding/ exploring data:
-- [research data](https://www.re3data.org/)
+- research data
+  - [re3data](https://www.re3data.org/)
 - government data
-  - Charlottesville
-    - [Open Data Portal](http://opendata.charlottesville.org/)
+  - federal
+    - [Open Data Portal](http://data.gov)
+  - Virginia
+    - [Open Data Portal](http://data.virginia.gov)
+    - [Lynchburg Open Data portal](http://data-cityoflynchburg.opendata.arcgis.com/)
   - Albemarle county
     - [Visual Budget](http://albemarle.smartcville.com/)
     - [Demographics](https://www.opendatanetwork.com/entity/0500000US51003/Albemarle_County_VA/demographics.population.count?year=2014)
-  - Virginia
-    - [Open Data Portal](http://data.virginia.gov)
-  - federal
-    - [Open Data Portal](http://data.gov)
+  - Charlottesville
+    - [Open Data Portal](http://opendata.charlottesville.org/)
+    
 - international
+  - [Open Data Inception](https://opendatainception.io/)
   - [OpenStreetMap](https://www.openstreetmap.org/)
   - [Wikidata](https://wikidata.org)
   - [Data Hub](http://datahub.io/)
