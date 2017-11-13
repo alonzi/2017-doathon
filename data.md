@@ -5,7 +5,7 @@ We are interested in
 - data along its entire life cycle
   - from making plans to capture data to the actual data capture, processing and sharing of data, integration across different sources, updates, citations and other forms of reuse.
 - metadata
-  - again all along the cycle, including for cases when original data may not be available any more
+  - again all along the cycle, including ontologies and cases when original data may not be available any more
 - other topics related to data
   - infrastructure
   - policies
