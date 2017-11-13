@@ -47,7 +47,7 @@ The details are still pretty much in flux, since they depend on you, but the gen
 | 12-1pm: Lunch provided                         | 12-1pm: Lunch provided                           |
 | 4-4:30pm: Wrap up for day 1                    | 4-4:30pm: Wrap up                                |
 
-The slots labeled "Working" will have occasional lightning talks (2 min each) and documentation sprints.
+The slots labeled "Working" will have optional lightning talks (2 min each) and occasional documentation sprints (about 5 min every other hour).
 
 # How to prepare
 
