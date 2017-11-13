@@ -28,7 +28,7 @@ About 2-3 times during the day, work will be briefly interrupted to document wha
 
 The event is for people interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards data open.
 
-It is organized by the [Data Science Institute](http://dsi.virginia.edu/) at the University of Virginia.
+It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) at the University of Virginia.
 
 # Hashtag
 
