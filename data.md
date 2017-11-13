@@ -24,9 +24,11 @@ Some starting points for finding/ exploring data:
 - government data
   - federal
     - [Open Data Portal](http://data.gov)
-  - Virginia
+ - Virginia
     - [Open Data Portal](http://data.virginia.gov)
-    - [Lynchburg Open Data portal](http://data-cityoflynchburg.opendata.arcgis.com/)
+      - [The Governor’s Opioid Addiction Crisis Datathon](http://data.virginia.gov/datathon-2017)
+    - [Annual Statistical Report from the Virginia Department of Social Service (VDSS)](http://dss.virginia.gov/geninfo/annual_report/index.html)
+     - [Lynchburg Open Data portal](http://data-cityoflynchburg.opendata.arcgis.com/)
   - Albemarle county
     - [Visual Budget](http://albemarle.smartcville.com/)
     - [Demographics](https://www.opendatanetwork.com/entity/0500000US51003/Albemarle_County_VA/demographics.population.count?year=2014)
