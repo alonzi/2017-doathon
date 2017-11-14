@@ -56,6 +56,7 @@ The slots labeled "Working" will have optional lightning talks (2 min each) and 
   - if you are providers of open data, let us know about what people are doing with the data or what ideas you have on what could be done with the data
   - if you have data but it's not open yet, consider making (some of) it open, or learning what this would entail
   - if you are looking for open data on a specific matter, let us know, and we can explore together where such data might be available and whether and how it could be made open in a way that suits your use case
+* Review the [ideas already posted](https://github.com/UVA-DSI/2017-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) or [post yours](https://github.com/UVA-DSI/2017-doathon/issues/new).
 
 # What's next?
 
