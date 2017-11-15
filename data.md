@@ -1,3 +1,4 @@
+
 # About
 
 This page provides some basic information around the data and resources that could be useful for doathon projects. 
@@ -45,7 +46,8 @@ Some starting points for finding/ exploring data:
     - [Visual Budget](http://albemarle.smartcville.com/)
     - [Demographics](https://www.opendatanetwork.com/entity/0500000US51003/Albemarle_County_VA/demographics.population.count?year=2014)
   - Charlottesville
-    - [Open Data Portal](http://opendata.charlottesville.org/)    
+    - [Open Data Portal](http://opendata.charlottesville.org/)   
+    - [Cvillepedia](http://www.cvillepedia.org)
 - other data resources
   - [Open Data Inception](https://opendatainception.io/)
   - [OpenStreetMap](https://www.openstreetmap.org/)
