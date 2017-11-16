@@ -1,5 +1,7 @@
 # Welcome to the first DSI Do-a-thon
-
+              
+**Please register [here](https://www.eventbrite.com/e/dsi-do-a-thon-tickets-39704865321).**
+              
 Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!) and focused attention to doable projects, where collaboration, discovery and preservation are made easy. 
 
 The term is inspired by hackathons &mdash; events focused on coding &mdash; but the activities can and do extend well beyond coding, e.g. to include graphic design storytelling, policy or curriculum development, outreach activities, you name it.
