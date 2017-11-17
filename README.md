@@ -38,8 +38,10 @@ About 2-3 times during the day, work will be briefly interrupted to document wha
 
 # Hashtags
 
-[#OpenCon](https://twitter.com/hashtag/OpenCon)
-[#DSIDo](https://twitter.com/hashtag/DSIDo)
+We recommend that you use at least two of these
+* [#OpenCon](https://twitter.com/hashtag/OpenCon)
+* [#DSIDo](https://twitter.com/hashtag/DSIDo)
+* [#doathon](https://twitter.com/hashtag/doathon)
 
 # Our program
 
