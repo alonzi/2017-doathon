@@ -49,9 +49,9 @@ The details are still pretty much in flux, since they depend on you, but the gen
 
 | Day 1                                          | Day 2                                            |
 |------------------------------------------------|--------------------------------------------------|
-| 9-10am: Arrival, breakfast & introductions     | 9-10am: Arrival & breakfast & introductions      |
+| 9-10am: Arrival, breakfast & [introductions](https://docs.google.com/document/d/13IJTpte7IdbCjkNMcVPy5KMP8eKiYAcSVXQzNbfwu_M/edit)    | 9-10am: Arrival & breakfast & [introductions](https://docs.google.com/document/d/13IJTpte7IdbCjkNMcVPy5KMP8eKiYAcSVXQzNbfwu_M/edit)      |
 | 10-10:15am: Opening                            | 10-10:05am: Opening                              |
-| 10:15-11am: idea pitches (2 min each)          | 10:05-10:30am: idea pitches (2 min each)         | 
+| 10:15-11am: [idea](https://github.com/UVA-DSI/2017-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) pitches (2 min each)          | 10:05-10:30am: [idea](https://github.com/UVA-DSI/2017-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) pitches (2 min each)         | 
 | 11am-4pm: Working                              | 11am-4pm: Working                                |
 | 12-1pm: Lunch provided                         | 12-1pm: Lunch provided                           |
 | 4-4:30pm: Wrap up for day 1                    | 4-4:30pm: Wrap up                                |
