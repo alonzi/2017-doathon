@@ -1,6 +1,4 @@
-# Welcome to the first DSI Do-a-thon
-              
-**Please register [here](https://www.eventbrite.com/e/dsi-do-a-thon-tickets-39704865321).**
+# Welcome to the OpenCon 2017 Charlottesville Do-a-thon, which is also the first DSI Do-a-thon
               
 Doathons bring together diverse participants to get things done &mdash; openly, collaboratively and quickly. The event centers around participants (no monologues!) and focused attention to doable projects, where collaboration, discovery and preservation are made easy. 
 
@@ -10,13 +8,15 @@ To get an idea of what this might mean in practice, take a look at a [previous d
 
 # Who?
 
-The event is for people interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards data open.
+The event is for people interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards making data open or reusing open data.
 
-It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) at the University of Virginia.
+It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) at the University of Virginia as a satellite event to the [OpenCon doathon](http://doathon.opencon2017.org/) held on 13 November 2017 in Berlin, which was part of [OpenCon 2017](http://opencon2017.org/).
 
 # When?
 
 18-19 November 2017 (Saturday & Sunday; 9am-4:30pm on both days)
+
+If things go well this time, we are planning on having DSI Do-a-thons on a regular basis.
 
 # Where?
 
@@ -36,8 +36,9 @@ The ideas listed there will form the basis of the idea pitches, by which we try 
 
 About 2-3 times during the day, work will be briefly interrupted to document what has been done. See how this looked at [prior](https://github.com/sparcopen/doathon/issues) [events](https://github.com/sparcopen/open-research-doathon/issues). The goal here is to make visible progress, not necessarily to deliver a polished final product. We plan to organize more of those doathons in Charlottesville in the future, and since we are working in the open, we can continue work others have started, or vice versa.
 
-# Hashtag
+# Hashtags
 
+[#OpenCon](https://twitter.com/hashtag/OpenCon)
 [#DSIDo](https://twitter.com/hashtag/DSIDo)
 
 # Our program
