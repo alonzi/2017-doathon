@@ -61,6 +61,7 @@ The slots labeled "Working" will have optional [lightning talks](https://github.
 # How to prepare
 
 * [Let us know you're coming](https://www.eventbrite.com/e/uva-do-a-thon-tickets-39704865321). (Done)
+* [Let us know you're actually around](https://github.com/UVA-DSI/2017-doathon/issues/40).
 * Start typing some basic info about you [here](https://docs.google.com/document/d/13IJTpte7IdbCjkNMcVPy5KMP8eKiYAcSVXQzNbfwu_M/edit).
 * Think about what you can contribute to or what you would like to learn at the event. For instance, 
   - if you are providers of open data, let us know about what people are doing with the data or what ideas you have on what could be done with the data
