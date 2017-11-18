@@ -10,7 +10,7 @@ To get an idea of what this might mean in practice, take a look at a [previous d
 
 The event is for people interested in open data &mdash; providers, aggregators or users of open data, data visualizers, data journalists, user experience designers, educators or anyone working towards making data open or reusing open data.
 
-It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) at the University of Virginia as a satellite event to the [OpenCon doathon](http://doathon.opencon2017.org/) held on 13 November 2017 in Berlin, which was part of [OpenCon 2017](http://opencon2017.org/).
+It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) at the University of Virginia as a satellite event to the [OpenCon doathon](http://doathon.opencon2017.org/) held on 13 November 2017 in Berlin, which was part of [OpenCon 2017](http://opencon2017.org/) and gave rise to a [range of issues](https://github.com/sparcopen/doathon/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) that are still being worked on.
 
 # When?
 
