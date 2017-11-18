@@ -16,7 +16,7 @@ It is organized by the [Data Science Institute](http://dsi.virginia.edu/) (DSI) 
 
 18-19 November 2017 (Saturday & Sunday; 9am-4:30pm on both days)
 
-If things go well this time, we are planning on having DSI Do-a-thons on a regular basis.
+If things go well this time, check out [what's next](https://github.com/UVA-DSI/2017-doathon/blob/master/README.md#whats-next).
 
 # Where?
 
