@@ -58,6 +58,10 @@ The details are still pretty much in flux, since they depend on you, but the gen
 
 The slots labeled "Working" will have optional [lightning talks](https://github.com/UVA-DSI/2017-doathon/issues/12) (2 min each) and occasional documentation sprints (about 5 min every other hour).
 
+# Sound track
+
+* [Listen to Wikidata](http://listen.hatnote.com/#wikidata,fr,de,it,rm,en)
+
 # How to prepare
 
 * [Let us know you're coming](https://www.eventbrite.com/e/uva-do-a-thon-tickets-39704865321). (Done)
